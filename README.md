@@ -16,12 +16,12 @@ This project is a full-stack application for managing earthquake data using Grap
 1. Install dependencies:
    ```sh
    cd backend
-   npm install
+   pnpm install
    ```
 2. Configure PostgreSQL database in `config/database.ts`.
 3. Start the server:
    ```sh
-   npm start
+   pnpm start
    ```
 
 ### Frontend
@@ -29,11 +29,11 @@ This project is a full-stack application for managing earthquake data using Grap
 1. Install dependencies:
    ```sh
    cd frontend
-   npm install
+   pnpm install
    ```
 2. Start the Next.js app:
    ```sh
-   npm run dev
+   pnpm run dev
    ```
 
 The frontend will be available at `http://localhost:3000`.
